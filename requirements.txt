@@ -1,0 +1,3 @@
+No backend dependencies.
+Frontend-only HTML/CSS/JS application.
+Anthropic Claude API (via browser fetch)
