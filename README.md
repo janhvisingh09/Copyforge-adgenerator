@@ -49,7 +49,7 @@ copyforge-ad-generator/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/copyforge-ad-generator.git
+   git clone https://github.com/janhvisingh09/Copyforge-adgenerator
    ```
 
 2. Open `index.html` in any browser — no build step needed.
